@@ -1906,6 +1906,29 @@ section.lazy-placeholder:after {
 .cid-rIL1wFQlIb H1 {
   color: #000000;
 }
+.cid-rIOPO3Ian7 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rIOPO3Ian7 .line {
+  background-color: #000000;
+  color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIOPO3Ian7 .section-text {
+  padding: 2rem 0;
+}
+.cid-rIOPO3Ian7 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIOPO3Ian7 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rIL3JgEfrg {
   padding-top: 0px;
   padding-bottom: 0px;
